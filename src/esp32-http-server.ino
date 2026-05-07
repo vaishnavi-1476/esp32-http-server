@@ -10,6 +10,7 @@
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <WebServer.h>
+#include<Arduino.h>
 #include <uri/UriBraces.h>
 
 #define WIFI_SSID "Wokwi-GUEST"
